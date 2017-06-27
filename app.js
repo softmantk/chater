@@ -11,7 +11,7 @@ var index = require('./routes/index');
 var authenticate = require('./routes/authenticate')(passport);
 var mongoose = require('mongoose');
 //mongoose.connect('mongodb://localhost/test-chirp');
-mongoose.connect('mongodb://admin:admin@@ds139082.mlab.com:39082/chatter-db', function (err) {
+mongoose.connect('mongodb://admin:admin@ds139082.mlab.com:39082/chatter-db', function (err) {
     if(err)  throw err
     console.log("Connected");
 });
