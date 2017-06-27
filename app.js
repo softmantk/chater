@@ -13,7 +13,8 @@ var authenticate = require('./routes/authenticate')(passport);
 var mongoose = require('mongoose');
 //mongoose.connect('mongodb://localhost/test-chirp');
 //var uri = "mongodb://admin:admin@ds139082.mlab.com:39082/chatter-db"
-var uri = "mongodb://"+process.env.DB_USER + ":" + process.env.DB_PASS + "@" + process.env.DB_HOST + "/" + process.env.DB_DBNAME
+
+var uri = "mongodb://"+process.env.DB_URI;
 mongoose.connect(uri, function (err) {
     if (err)  throw err
     console.log("Connected");
