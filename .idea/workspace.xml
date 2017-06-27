@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6015583c-3422-4f3e-b5d1-6648b543a281" name="Default" comment="for remote heroku">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-    </list>
+    <list default="true" id="6015583c-3422-4f3e-b5d1-6648b543a281" name="Default" comment="for remote heroku" />
     <list id="03d88533-a7c9-4ed5-95b2-bdd64bff591c" name="New changelist" comment="" />
     <ignored path="working-mean-boilerplate-chirp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -54,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".env" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="65" lean-forward="true" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+              <caret line="5" column="65" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -331,12 +328,12 @@
       <updated>1495138157528</updated>
       <workItem from="1495138159265" duration="563000" />
       <workItem from="1498534772864" duration="21854000" />
-      <workItem from="1498579051854" duration="4876000" />
+      <workItem from="1498579051854" duration="5282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27293000" />
+    <option name="totallyTimeSpent" value="27699000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -595,18 +592,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="65" lean-forward="true" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="65" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="65" />
           <folding />
         </state>
       </provider>
