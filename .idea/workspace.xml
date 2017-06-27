@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6015583c-3422-4f3e-b5d1-6648b543a281" name="Default" comment="" />
+=======
+    <list default="true" id="6015583c-3422-4f3e-b5d1-6648b543a281" name="Default" comment="for remote heroku" />
+>>>>>>> 8f60c484b33bc5bb753d7d8e274653cb93b7d9ee
     <list id="03d88533-a7c9-4ed5-95b2-bdd64bff591c" name="New changelist" comment="" />
     <ignored path="working-mean-boilerplate-chirp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,11 +55,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".env" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="65" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="65" />
+<<<<<<< HEAD
               <folding />
             </state>
           </provider>
@@ -76,6 +81,8 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+=======
+>>>>>>> 8f60c484b33bc5bb753d7d8e274653cb93b7d9ee
               <folding />
             </state>
           </provider>
@@ -362,6 +369,7 @@
       <updated>1495138157528</updated>
       <workItem from="1495138159265" duration="563000" />
       <workItem from="1498534772864" duration="21854000" />
+<<<<<<< HEAD
       <workItem from="1498579051854" duration="5836000" />
     </task>
     <task id="LOCAL-00001" summary="d">
@@ -370,12 +378,19 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1498584931542</updated>
+=======
+      <workItem from="1498579051854" duration="5282000" />
+>>>>>>> 8f60c484b33bc5bb753d7d8e274653cb93b7d9ee
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="28253000" />
+=======
+    <option name="totallyTimeSpent" value="27699000" />
+>>>>>>> 8f60c484b33bc5bb753d7d8e274653cb93b7d9ee
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -624,6 +639,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
@@ -635,10 +651,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="65" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="65" />
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+>>>>>>> 8f60c484b33bc5bb753d7d8e274653cb93b7d9ee
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/views/login.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -651,6 +673,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+=======
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="65" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="65" />
+>>>>>>> 8f60c484b33bc5bb753d7d8e274653cb93b7d9ee
           <folding />
         </state>
       </provider>
